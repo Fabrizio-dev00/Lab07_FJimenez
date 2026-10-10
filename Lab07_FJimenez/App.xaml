@@ -1,0 +1,9 @@
+﻿<Application x:Class="Lab07_FJimenez.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lab07_FJimenez"
+             StartupUri="CapaPresentacion/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
